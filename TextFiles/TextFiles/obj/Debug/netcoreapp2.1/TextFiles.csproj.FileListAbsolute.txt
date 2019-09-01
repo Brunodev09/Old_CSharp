@@ -1,0 +1,11 @@
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\bin\Debug\netcoreapp2.1\TextFiles.deps.json
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\bin\Debug\netcoreapp2.1\TextFiles.runtimeconfig.json
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\bin\Debug\netcoreapp2.1\TextFiles.runtimeconfig.dev.json
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\bin\Debug\netcoreapp2.1\TextFiles.dll
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\bin\Debug\netcoreapp2.1\TextFiles.pdb
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\obj\Debug\netcoreapp2.1\TextFiles.csprojAssemblyReference.cache
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\obj\Debug\netcoreapp2.1\TextFiles.csproj.CoreCompileInputs.cache
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\obj\Debug\netcoreapp2.1\TextFiles.AssemblyInfoInputs.cache
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\obj\Debug\netcoreapp2.1\TextFiles.AssemblyInfo.cs
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\obj\Debug\netcoreapp2.1\TextFiles.dll
+C:\Users\Brunodev09\source\repos\TextFiles\TextFiles\obj\Debug\netcoreapp2.1\TextFiles.pdb

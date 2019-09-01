@@ -1,0 +1,11 @@
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\bin\Debug\netcoreapp2.1\RandomLib.deps.json
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\bin\Debug\netcoreapp2.1\RandomLib.runtimeconfig.json
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\bin\Debug\netcoreapp2.1\RandomLib.runtimeconfig.dev.json
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\bin\Debug\netcoreapp2.1\RandomLib.dll
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\bin\Debug\netcoreapp2.1\RandomLib.pdb
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\obj\Debug\netcoreapp2.1\RandomLib.csprojAssemblyReference.cache
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\obj\Debug\netcoreapp2.1\RandomLib.csproj.CoreCompileInputs.cache
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\obj\Debug\netcoreapp2.1\RandomLib.AssemblyInfoInputs.cache
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\obj\Debug\netcoreapp2.1\RandomLib.AssemblyInfo.cs
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\obj\Debug\netcoreapp2.1\RandomLib.dll
+C:\Users\Brunodev09\source\repos\RandomLib\RandomLib\obj\Debug\netcoreapp2.1\RandomLib.pdb

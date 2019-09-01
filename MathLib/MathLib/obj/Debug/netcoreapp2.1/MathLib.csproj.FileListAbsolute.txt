@@ -1,0 +1,11 @@
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\bin\Debug\netcoreapp2.1\MathLib.deps.json
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\bin\Debug\netcoreapp2.1\MathLib.runtimeconfig.json
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\bin\Debug\netcoreapp2.1\MathLib.runtimeconfig.dev.json
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\bin\Debug\netcoreapp2.1\MathLib.dll
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\bin\Debug\netcoreapp2.1\MathLib.pdb
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\obj\Debug\netcoreapp2.1\MathLib.csprojAssemblyReference.cache
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\obj\Debug\netcoreapp2.1\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\obj\Debug\netcoreapp2.1\MathLib.AssemblyInfoInputs.cache
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\obj\Debug\netcoreapp2.1\MathLib.AssemblyInfo.cs
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\obj\Debug\netcoreapp2.1\MathLib.dll
+C:\Users\Brunodev09\source\repos\MathLib\MathLib\obj\Debug\netcoreapp2.1\MathLib.pdb

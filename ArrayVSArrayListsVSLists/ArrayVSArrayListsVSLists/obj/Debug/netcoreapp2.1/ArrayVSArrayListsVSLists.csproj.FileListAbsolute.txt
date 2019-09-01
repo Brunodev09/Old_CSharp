@@ -1,0 +1,11 @@
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\bin\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.deps.json
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\bin\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.runtimeconfig.json
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\bin\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.runtimeconfig.dev.json
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\bin\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.dll
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\bin\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.pdb
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\obj\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.csprojAssemblyReference.cache
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\obj\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.csproj.CoreCompileInputs.cache
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\obj\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.AssemblyInfoInputs.cache
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\obj\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.AssemblyInfo.cs
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\obj\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.dll
+C:\Users\Brunodev09\source\repos\ArrayVSArrayListsVSLists\ArrayVSArrayListsVSLists\obj\Debug\netcoreapp2.1\ArrayVSArrayListsVSLists.pdb
